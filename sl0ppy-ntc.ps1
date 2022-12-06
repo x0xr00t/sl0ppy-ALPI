@@ -1,3 +1,11 @@
+#!-.ps1 
+#
+# Author : P.Hoogeveem
+# Aka    : x0xr00t
+# Build  : -
+# Name   : Sl0ppy-ntc
+
+
 write-host ""
 write-host ""
 write-host " { sl0p [0] Checking If We Got NT_Authority\system}"
