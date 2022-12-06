@@ -22,6 +22,11 @@ Automated LSASS Process Impersonation Rename defender folders to windows fuck.
 # Patch 
 * Update to 22h2, will fix this bug.
 
+# Change Log 
+* fixed folder location in exe's
+* rolled out new exe's and added to repo
+* changed ps1 folder issue
+
 # Legal Disclaimer: 
 * I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
 
