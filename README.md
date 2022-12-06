@@ -21,7 +21,6 @@ Automated LSASS Process Impersonation Rename defender folders to windows fuck.
 * Open sl0ppy-ntauth.ps1 change username to `yourusername` safe file  
 * Run `Sl0ppy-ntauth.ps1` 
 
-
 # Patch 
 * Update to 22h2, will fix this bug.
 
