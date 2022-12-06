@@ -15,8 +15,9 @@ Automated LSASS Process Impersonation Rename defender folders to windows fuck.
 * Adminpriv > example `UAC Bypass` or `Weaponized UAC Bypass| Staged UAC Bypass` 
 
 # Usage 
-* change folder to Multi-UAC-Bypass-windows-Poc (needs to be done, due to the pre made exe's)
-* open sl0ppy-ntauth.ps1 change username 
+* Place folder on desktop 
+* Change folder to 'Multi-UAC-Bypass-windows-Poc' (needs to be done, due to the pre made exe's)
+* Open sl0ppy-ntauth.ps1 change username 
 * Run `Sl0ppy-ntauth.ps1` 
 
 
