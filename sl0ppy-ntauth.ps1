@@ -1,3 +1,10 @@
+#!-.ps1 
+#
+# Author : P.Hoogeveem
+# Aka    : x0xr00t
+# Build  : -
+# Name   : Sl0ppy-ntauth
+
 Write-Host " {sl0p}----sl0ppyr00t----{sl0p}"
 Write-Host " {sl0p}Lsass Impersonation{sl0p}"
 Write-Host " {sl0p}----sl0ppyr00t----{sl0p}"
