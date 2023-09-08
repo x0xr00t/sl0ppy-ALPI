@@ -1,6 +1,9 @@
 # sl0ppy-ALPI
 Automated LSASS Process Impersonation Rename defender folders to windows fuck.
 
+# Release 
+* `v1.1` rolled out as a test.
+
 # Info
 * This Worked on windows 10 and 11 versions prio to 22h2, as they patched it in (22h2!!!)
 * Windows changed the Dark blue permissions for lsass process to a light blue NTAUTH process.
