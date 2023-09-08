@@ -8,7 +8,7 @@ Automated LSASS Process Impersonation Rename defender folders to windows fuck.
 * This Worked on windows 10 and 11 versions prio to 22h2, as they patched it in (22h2!!!)
 * Windows changed the Dark blue permissions for lsass process to a light blue NTAUTH process.
 * U can verify it with tools like processhacker2 and others to confirm 22h2 has light blue indicator for the lsass process.
-* The Dark blue was a parent that was assigned to lsass in versions prio to 22h2, and as of 22h2 its a light blue child process (which fixed the issue of leaking passwords and abuse of lsass process by either impersonating it or abusing it in any other way, like load processes with advance run as the process and other things).
+* The Dark blue was a parent that was assigned to lsass.exe in versions `prio to 22h2`, and `as of 22h2 its a light blue child process` (which fixed the issue of the abuse of lsass process by impersonating it.
 
 # Extra info
 * A threat actor could change the instructions to rename defender to any other instructions, like load malware after defender been renamed and lots more, like file lock a system and such, i don't go in details here... 
