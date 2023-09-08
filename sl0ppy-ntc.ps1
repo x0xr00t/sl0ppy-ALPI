@@ -1,10 +1,20 @@
-#!-.ps1 
-#
-# Author : P.Hoogeveem
-# Aka    : x0xr00t
-# Build  : -
-# Name   : Sl0ppy-ntc
+<#
+.SYNOPSIS
+Author: P.Hoogeveem
+Alias: x0xr00t
+Build: -
+Name: Sl0ppy-ntc
 
+Description:
+This script checks if the current user is NT AUTHORITY\SYSTEM and performs various actions accordingly, such as elevating privileges, removing Windows Defender registry keys, renaming Windows Defender folders, and taking ownership of certain directories.
+
+Usage:
+Run this script in a PowerShell environment.
+
+Disclaimer:
+Use this script responsibly and be cautious when modifying system settings and registry keys.
+
+#>
 
 write-host ""
 write-host ""
