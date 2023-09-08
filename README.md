@@ -15,7 +15,7 @@ Automated LSASS Process Impersonation Rename defender folders to windows fuck.
 * Adminpriv > example `UAC Bypass` or `Weaponized UAC Bypass| Staged UAC Bypass` 
 
 # Usage 
-* Place folder on desktop 
+* Place folder on desktop (or change folder path)
 * Open sl0ppy-ntauth.ps1 change username to `yourusername` safe file  
 * Run `Sl0ppy-ntauth.ps1` 
 
@@ -28,6 +28,6 @@ Automated LSASS Process Impersonation Rename defender folders to windows fuck.
 * changed ps1 folder issue
 
 # Legal Disclaimer: 
-* I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
+* `I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on.` 
 
-* x0xr00t 
+* `x0xr00t` 
